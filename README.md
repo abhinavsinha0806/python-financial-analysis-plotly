@@ -1,6 +1,6 @@
 This project is an exploratory data analysis (EDA) of major US bank stocks from 2006 to 2016, focusing on their performance through the 2008 financial crisis. The analysis leverages modern Python libraries to fetch, clean, and visualize financial time-series data.
 
-The primary goal is to demonstrate a modern data analysis workflow, moving from basic data inspection to creating insightful, fully interactive visualizations with Plotly and Cufflinks.
+The primary goal is to demonstrate a modern data analysis workflow, moving from basic data inspection to creating insightful, fully interactive visualizations with Plotly.
 
 Key Analyses Include:
 
@@ -20,9 +20,7 @@ Pandas: For data manipulation, time-series analysis, and calculations.
 
 yfinance: For fetching historical stock market data.
 
-Plotly & Cufflinks: For creating interactive and dynamic data visualizations (line charts, candlestick charts, heatmaps, and technical studies).
-
-Seaborn & Matplotlib: For supplementary static visualizations.
+Plotly: For creating interactive and dynamic data visualizations (line charts, heatmaps, and technical studies).
 
 Jupyter Notebook: As the development environment.
 
