@@ -9,3 +9,29 @@ Data Manipulation: Utilizes pandas and numpy for efficient data cleaning, transf
 Exploratory Data Analysis (EDA): Investigates key metrics like open, close, high, and low prices, and calculates daily returns.
 
 Data Visualization: Employs plotly to create interactive visualizations, including a scatter matrix to compare the daily returns of the different bank stocks.
+
+Technologies Used:
+
+Python
+
+Pandas
+
+NumPy
+
+yfinance
+
+Plotly
+
+How to Run:
+
+Clone the repository:
+
+Bash
+
+git clone <your-repository-link>
+Install the required libraries:
+
+Bash
+
+pip install pandas numpy yfinance plotly
+Open and run the Finance_Data_Vizualization.ipynb notebook in a Jupyter environment.
