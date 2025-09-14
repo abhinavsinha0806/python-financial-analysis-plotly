@@ -21,17 +21,3 @@ NumPy
 yfinance
 
 Plotly
-
-How to Run:
-
-Clone the repository:
-
-Bash
-
-git clone <your-repository-link>
-Install the required libraries:
-
-Bash
-
-pip install pandas numpy yfinance plotly
-Open and run the Finance_Data_Vizualization.ipynb notebook in a Jupyter environment.
